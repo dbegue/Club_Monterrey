@@ -18,7 +18,7 @@
          <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav navbar-right navbar-links-custom&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;botonacceso&quot;][count(. | //*[@href = '#' and @class = 'botonacceso' and (text() = ' Accesos ' or . = ' Accesos ')]) = count(//*[@href = '#' and @class = 'botonacceso' and (text() = ' Accesos ' or . = ' Accesos ')])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <value>false</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
@@ -63,7 +63,7 @@
       <value> Accesos </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

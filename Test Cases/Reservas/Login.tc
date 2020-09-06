@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Registrar invitado</name>
+   <name>Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2fdc427e-1f43-4a58-b431-fc99e03b10c7</testCaseGuid>
+   <testCaseGuid>3ff5950a-f9b6-4372-a450-564a72b778ef</testCaseGuid>
 </TestCaseEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nmero de socio_form-control</name>
+   <name>span_Bienvenido al portal del Club Campestr_2b67e7</name>
    <tag></tag>
-   <elementGuidId>a9977807-f08c-4f87-9f51-1cd3e00dde3a</elementGuidId>
+   <elementGuidId>680083c6-4b5b-4308-9ece-41d0fc73f25b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='text']</value>
+         <value>//div[@id='app']/header/div/nav/div/div/div/button/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.form-control</value>
+         <value>span.icon-bar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Número de socio</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
+      <value>icon-bar</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;partner&quot;)/fieldset[@class=&quot;form-group row&quot;]/div[@class=&quot;input-group col-md-7 col-sm-12&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <value>id(&quot;app&quot;)/header[1]/div[@class=&quot;nav-wrapper&quot;]/nav[@class=&quot;navbar navbar-default navbar-custom affix-top&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;navbar-header navbar-header-custom&quot;]/button[@class=&quot;navbar-toggle collapsed menu-icon&quot;]/span[@class=&quot;icon-bar&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@type='text']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='partner']/fieldset/div/input</value>
+      <value>//div[@id='app']/header/div/nav/div/div/div/button/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
+      <value>//span</value>
    </webElementXpaths>
 </WebElementEntity>
